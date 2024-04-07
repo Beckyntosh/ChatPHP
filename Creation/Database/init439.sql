@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS InvestmentCalculations (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    initialInvestment DECIMAL(10,2) NOT NULL,
+    annualReturn DECIMAL(5,2) NOT NULL,
+    years INT NOT NULL,
+    futureValue DECIMAL(10,2) NOT NULL,
+    calcDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+INSERT INTO InvestmentCalculations (initialInvestment, annualReturn, years, futureValue) VALUES
+(10000, 5, 10, 16288.95),
+(15000, 7.5, 15, 37601.50),
+(20000, 4.25, 8, 28948.83),
+(25000, 6.1, 12, 46696.32),
+(30000, 3.75, 5, 34918.35),
+(35000, 8.2, 20, 146169.40),
+(40000, 5.5, 18, 89186.95),
+(45000, 6.75, 7, 57954.09),
+(50000, 4.8, 14, 82804.47),
+(55000, 8.9, 6, 86791.46);

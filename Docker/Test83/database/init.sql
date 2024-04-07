@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS MortgageCalculations (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    loanAmount DECIMAL(10,2),
+    interestRate DECIMAL(5,2),
+    loanTerm INT(3),
+    monthlyPayment DECIMAL(10,2),
+    calculationTime TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+INSERT INTO MortgageCalculations (loanAmount, interestRate, loanTerm, monthlyPayment) VALUES
+(300000, 4.00, 30, 1432.25),
+(250000, 3.75, 20, 1458.58),
+(400000, 4.25, 15, 2962.92),
+(150000, 3.50, 10, 1512.81),
+(275000, 3.90, 25, 1355.89),
+(320000, 4.50, 30, 1629.05),
+(200000, 3.25, 20, 1132.93),
+(350000, 4.75, 30, 1826.97),
+(180000, 3.75, 15, 1300.78),
+(280000, 4.00, 20, 1700.69);

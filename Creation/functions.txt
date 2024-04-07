@@ -1,0 +1,171 @@
+Music and Artist Search: create an example search function for a music collection website. Example: User searches for 'Jazz artists from the 1960s'
+Job Listing Search with Filters: "Create an exmaple for a job search functionality with filtering options. Example: User searches for 'remote software createer positions'
+Search and submit Financial Reports: create an example search feature for financial reports. Example: User searches for 'Q2 earnings reports for tech companies 2023' and submits a report
+Add Expense to Personal Budget: create an example feature for users to input and categorize expenses. Example: User adds a $200 grocery shopping expense under 'Food'
+Create a Basic Travel Plan App: "Create functionality for users to manage travel details. Example: User plans a trip to Paris including flights and hotels, create a simple, example digital palnner for it
+Add Exercise to a Digital Workout Log: create an example feature for logging exercises. Example: User logs a 30-minute run with intensity 'moderate'
+Create a Simple Meal Plan: create an example system for weekly meal planning. Example: User creates a meal plan including dietary preferences like 'vegan'
+Add Patient to Appointment System: create an example feature for managing patient details in a scheduling system. Example: Adding a new patient 'Jane Doe' for a dental check-up
+User-Created Quiz Platform: "Users can create and take quizzes. Example: User creates a quiz titled 'World Capitals'
+Add Custom Order in a Webshop: "Create functionality for custom product orders. Example: User requests a custom-sized 'wooden dining table'
+Create a Habit Tracker Entry: create an example feature for tracking daily habits. Example: User sets a goal to 'Drink 2 liters of water daily'
+Add a Plant to Gardening Tracker: create an example feature for logging plants in a garden. Example: User adds 'Tomato plants' with care schedule
+Create a Personal Finance Goal: create an example system for tracking finance goals. Example: User sets a goal to 'Save $5,000 for travel'
+Add a Client to CRM System: "Build a feature for adding clients to a CRM. Example: Adding a new client 'Acme Corp' with contact details
+Create Language Learning Content: "create functionality for custom language modules. Example: User adds a vocabulary list for 'Spanish for beginners'
+Add Vehicle to Fleet Management: create an example feature for managing fleet vehicles. Example: Adding a '2023 Ford Transit' van with maintenance schedule
+Create an Online Art Gallery Entry: "Build a system for artists to upload artwork. Example: Artist uploads 'Sunset Over Mountains' painting details
+Add Security Camera in Home Automation: create an example feature for integrating security cameras. Example: User adds a 'Nest Cam Outdoor' to their system
+Create a Virtual Event Calendar: create an example tool for managing virtual events. Example: Setting up a 'Virtual Book Club Meeting' with capacity details
+Add Custom Exercise to Fitness App: "Create functionality for adding custom exercises. Example: User adds 'Parkour Training' with instructions and video
+Create a Personalized Learning Path: create an example feature for customizing learning paths. Example: User selects courses for a 'Data Science' learning path
+Add Product to Comparison Tool: create an example system for product comparison. Example: User compares 'iPhone 13 vs. Samsung Galaxy S21'
+Create a Pet Profile in Pet Care App: "Build a feature for creating pet profiles. Example: User creates a profile for their dog 'Buddy' with health info
+Scanned Document Upload: create an example feature for uploading scanned documents. Example: User uploads a scanned 'Driver's License' for verification
+Invoice Upload: "Create functionality for managing invoices. Example: Business uploads 'January 2024 Service Invoice'
+Text File Upload for Content Analysis: create an example feature for uploading text files for analysis. Example: User uploads a document for 'Sentiment Analysis'
+Audio Upload for Transcription Service: create an example system for audio file uploads for transcription. Example: User uploads a lecture recording for transcription
+Spreadsheet Upload for Data Visualization: "Create functionality for visual data representations from spreadsheets. Example: User uploads sales data for 'Q1 2024'
+ZIP File Upload for Archiving: create an example feature for uploading ZIP files for archiving. Example: User archives 'Project Alpha' documents in a ZIP file
+Source Code Upload for Review: create an example system for collaborative code review. Example: createer uploads 'Feature X' source code for team review
+File Upload for Printing Services: create an example feature for uploading files for printing. Example: User uploads a 'Wedding Invitation Design' for printing
+Photoshop File Upload for Image Editing Platform: create an example platform for Photoshop file uploads for editing. Example: User uploads 'Landscape Photo' for enhancements
+Vector File Upload for Design Sharing: create an example system for sharing vector designs. Example: Designer shares a 'Company Logo' vector file with a client
+CSV File Upload for Database Import: "Create functionality for database imports via CSV. Example: Admin imports 'Customer List April 2024' CSV
+Configuration File Upload for System Setup: create an example feature for uploading configuration files. Example: User uploads 'nginx.conf' for server setup
+Database Backup Upload for Restoration Services: create an example system for database backup uploads. Example: Admin uploads 'MainDB_Backup_March2024' for storage
+Email Attachment Upload for Communication Platforms: "Create functionality for uploading email attachments directly. Example: User attaches 'Project Proposal.pdf' in an email
+Legal Document Upload for e-Signing Services: create an example feature for uploading legal documents for e-signing. Example: User uploads 'Lease Agreement' for digital signature
+Firmware Upload for IoT Devices: create an example system for IoT device firmware updates. Example: User uploads new firmware for 'Smart Thermostat'
+Software Package Upload for Distribution: create an example platform for software package uploads and distribution. Example: createer uploads 'MyApp v1.2' for users
+Medical Record Upload for Healthcare Systems: create an example secure feature for medical record uploads. Example: Patient uploads 'Immunization Record' to healthcare system
+Animation File Upload for Collaborative Editing: create an example system for uploading animation files for editing. Example: Animator uploads 'Scene 5 Animations' for team feedback
+Game Save File Upload for Cloud Storage: "Create functionality for uploading game save files to the cloud. Example: Gamer uploads 'Skyrim Save File' for backup
+User Registration with Captcha Integration: create an example secure user registration system with captcha. Example: New user registers with captcha verification for security
+Password Reset: create an example password reset feature with security methods. Example: User receives a password reset link via email after verification
+Account Verification via Email Link: create an example system for email link account verification. Example: New user verifies account through a link sent to their email
+User Profile Editing with Audit Trail: "create profile editing with change tracking. Example: User updates their profile picture and changes are logged for audit
+Change Password with Current Password Verification: create an example secure password change feature. Example: User changes their password by first entering the current password
+Email Notification Settings Management: create an example system for managing email notification preferences. Example: User customizes which notifications they receive via email
+Two-Factor Authentication Setup with Backup Codes: "create two-factor authentication with backup codes. Example: User sets up 2FA and receives backup codes for emergency access
+User Role Management for Administrators: create an examplen admin feature for managing user roles. Example: Admin assigns a 'Moderator' role to a selected user
+Account Deactivation with Re-activation Steps: create an example feature for account deactivation and reactivation. Example: User deactivates their account and follows steps for reactivation later
+Privacy Settings Configuration Panel: create an example privacy settings panel for user data control. Example: User adjusts their privacy settings to restrict profile visibility
+Social Media Account Linking for Quick Login: create an example feature for linking social media accounts for quick login. Example: User links their Facebook account for faster logins
+Avatar Uploading with Image Size Restriction: create an examplen avatar upload feature with size restrictions. Example: User uploads a profile picture within specified size limits
+Account Recovery Options with Multi-Step Verification: create an example secure account recovery process. Example: User goes through multi-step verification for account recovery
+Address Book Management with Import/Export Options: create an example feature for managing address books with import/export. Example: User imports their contact list from a CSV file
+Payment Method Management with Secure Encryption: create an example secure system for managing payment methods. Example: User adds a credit card which is stored securely encrypted
+Order History Viewing with Detailed Information: create an example feature for viewing detailed order history. Example: User reviews their past purchases with order details and statuses
+Wishlist Creation and Management: create an example feature for creating and managing wishlists. Example: User adds items to their wishlist for future purchase
+Shopping Cart Saving and Retrieval: create an example system for saving and retrieving shopping carts. Example: User saves their shopping cart to continue shopping later
+User Preferences Setting for Customized Experience: create an example feature for setting user preferences. Example: User sets their homepage layout and theme according to preferences
+Language Selection for Multilingual Support: create an example functionality for language selection. Example: User selects 'Spanish' as their preferred website language
+Standard User Signup for a Web Service: create an example standard user signup process. Example: New user completes signup with basic information like name and email
+Newsletter Signup with Email Confirmation: create an example newsletter signup with email verification. Example: User signs up for a newsletter and confirms subscription via email
+E-commerce Account Creation with Instant Coupon Reward: create an example signup process with a coupon reward. Example: New user signs up for an e-commerce site and receives a discount coupon
+Signup for Product Update Notifications: create an example signup feature for product updates. Example: User signs up to receive notifications about new product releases
+Interactive User Profile Setup Post-Signup: create an example post-signup profile customization process. Example: New user customizes their profile preferences after signing up
+Email Verification System in Account Signup: create an examplen email verification step during signup. Example: New user verifies their email address as part of account creation
+Loyalty Program Signup During E-commerce Registration: "create loyalty program signup during registration. Example: New e-commerce site user opts into the loyalty program during signup
+Event Registration Platform with User Account Creation: create an example user account creation feature for event registration. Example: User signs up and creates an account to register for a webinar
+Signup for Access to Exclusive Member-Only Content: create an example signup process for exclusive content access. Example: User signs up for access to member-only articles and videos
+Membership Registration for Online Forums: "create signup for online forum participation. Example: User registers to join and contribute to a technology discussion forum
+Online Course Enrollment with User Account Creation: create an example signup process for online course enrollment. Example: User signs up and creates an account to enroll in an online coding course
+Signup for Personalized Product Recommendations: create an example system for signup-based personalized recommendations. Example: User signs up and receives product recommendations based on their browsing history
+Subscription Service Signup with Trial Period: create an example signup process with a free trial for subscription services. Example: User signs up for a streaming service with a 1-month free trial
+User Registration for Customizable News Feed: create an example feature for signup-based news feed customization. Example: User registers and customizes their news feed preferences
+Social Media Integration in Signup Process: create an example signup process with social media integration. Example: User uses their Google account to register for a new service
+Appointment Booking System with User Signup: create an example feature for user signup and appointment booking. Example: User signs up and books a dental appointment through the system
+Signup for Access to Premium File Storage Features: create an example signup process for cloud storage with premium features. Example: User registers for cloud storage service to access enhanced security features
+Language Preference Selection during Signup: create an example feature for language preference selection during signup. Example: User selects their preferred interface language during account creation
+Volunteer Sign-up Platform for Events and Causes: create an example signup platform for volunteering at events and social causes. Example: User registers to volunteer at a local charity event
+Customizable User Dashboard Creation on First Login: create an example feature for customizing the dashboard on first login. Example: User customizes their dashboard layout and widgets after first login
+Mortgage Repayment Calculator: "Calculate monthly mortgage payments based on loan amount, interest rate, and term. Example: User calculates their mortgage payment for a $300,000 loan at 4% interest over 30 years
+Body Mass Index (BMI) Calculator: "Determine BMI by entering height and weight, and provide health recommendations. Example: User enters their height and weight to calculate BMI and receive health advice
+Currency Converter: "Convert amounts between different currencies based on example exchange rates. Example: User converts $100 USD to Euros at the current exchange rate
+Retirement Savings Calculator: "Estimate the amount needed to save for retirement based on current age, desired retirement age, and lifestyle preferences. Example: User calculates how much to save monthly for retirement at age 65
+Loan Amortization Calculator: "Show users a breakdown of their loan repayment schedule over time, including interest and principal amounts. Example: User views an amortization schedule for a 5-year car loan
+Carbon Footprint Calculator: "Estimate a user's carbon footprint based on lifestyle choices and suggest ways to reduce it. Example: User calculates their carbon footprint from travel and household energy use
+Calorie Intake Calculator: "Calculate daily calorie intake recommendations based on age, gender, weight, height, and activity level. Example: User finds out how many calories they should consume daily for weight maintenance
+Investment Return Calculator: "Project future value of investments based on initial investment, rate of return, and time. Example: User estimates the future value of a $10,000 investment with an annual return of 5% over 20 years
+Debt Repayment Calculator: "Help users plan their debt repayment strategy, showing how long it will take to be debt-free under different payment plans. Example: User explores different payment options to pay off credit card debt
+Pregnancy Due Date Calculator: "Estimate the due date based on the date of the last menstrual period or conception date. Example: User calculates their expected delivery date using the first day of their last period
+Tax Calculator: "Estimate users' tax liabilities based on their income, deductions, and filing status. Example: User calculates their federal income tax owed for the year
+Running Pace Calculator: "Calculate running pace, distance, or time by entering two of these values for runners. Example: User determines the pace needed to finish a half marathon in under 2 hours
+Home Energy Use Calculator: "Estimate a household's energy consumption and provide tips on reducing energy bills. Example: User calculates their home's monthly energy use and finds ways to save on utilities
+Grade Point Average (GPA) Calculator: "Allow students to calculate their GPA based on their course grades and credits. Example: Student calculates their GPA after completing their semester courses
+Vehicle Fuel Efficiency Calculator: "Estimate a vehicle's fuel efficiency and the cost of a trip based on distance and fuel price. Example: User calculates the fuel cost for a road trip from New York to Washington, D.C
+Time Zone Converter: "Convert time between different time zones for planning international meetings or travel. Example: User converts 9:00 AM EST to London time for a business call
+Recipe Conversion Calculator: "Convert recipe ingredients from one measurement unit to another (like cups to grams). Example: User converts measurements in a baking recipe from imperial to metric
+Child Support Estimator: "Provide an estimated amount of child support payments based on income levels and custody arrangements. Example: User calculates expected child support payments using their income and the number of children
+Daily Water Intake Calculator: "Suggest the ideal daily water intake based on a person’s weight and activity level. Example: User finds out how much water they should drink each day for optimal hydration
+Paint Coverage Calculator: "Estimate the amount of paint required to cover a specific area based on room dimensions and number of coats. Example: User calculates how much paint is needed to repaint their living room
+Password Hashing for User Authentication: "create secure password hashing using algorithms like bcrypt for user authentication. Example: System securely stores hashed passwords for user accounts
+Encrypting Sensitive User Data: "Encrypt sensitive information such as user addresses and phone numbers before storing them in the database. Example: System encrypts user personal details for added security
+Secure API Key Storage: create an example secure method to store and retrieve API keys, avoiding hard-coding them into your application. Example: Application uses a secure vault for API key management
+createing HTTPS for Secure Communication: "Set up HTTPS on your web server to ensure encrypted communication between the client and server. Example: Website configures SSL/TLS certificates for secure data transmission
+Generating and Validating JWTs for API Authentication: "Utilize JSON Web Tokens (JWT) for securing REST API endpoints. Example: API uses JWTs to authenticate and authorize user requests
+Two-Factor Authentication Using OTP: "create two-factor authentication using one-time passwords sent via email or SMS. Example: System sends a one-time password to the user's phone for login verification
+Client-Side Encryption in Forms: "Encrypt sensitive data in forms (like credit card information) before submission. Example: E-commerce checkout form encrypts credit card details before sending to the server
+Secure File Encryption for Uploads: "Encrypt user-uploaded files for added security, particularly for sensitive documents. Example: System encrypts uploaded medical records for privacy protection
+OAuth for Third-Party Authentication: "Set up OAuth for secure user authentication using third-party services (e.g., Google, Facebook). Example: Website allows users to log in using their Google account credentials
+Encrypting Session Data: "Securely encrypt session data stored on the server to enhance web application security. Example: System encrypts user session information to protect against unauthorized access
+End-to-End Encryption in Messaging Features: "create basic end-to-end encryption in a custom chat or messaging feature. Example: Chat application ensures messages are encrypted from sender to receiver
+Secure Handling of Credit Card Information: "Encrypt credit card information during processing for e-commerce functionalities. Example: Online store encrypts credit card data during checkout for security
+CAPTCHA createation: "Integrate a CAPTCHA on forms to prevent automated submissions and enhance security. Example: Registration form includes a CAPTCHA to differentiate humans from bots
+Secure Data Hashing for Integrity: "Use secure hashing to verify the integrity of data being stored or transmitted. Example: System hashes files before storage to ensure they haven't been tampered with
+Secure Password Reset Mechanism: "Create secure, time-limited password reset mechanisms for user accounts. Example: System generates a time-limited link for users to reset their passwords securely
+Basic Data Encryption for User Communications: "create simple encryption for user-to-user communication within your application, like in a feedback form. Example: Messages sent through the feedback form are encrypted for privacy
+Comment Section for Blog Posts: create an example comment system where users can add comments to blog posts. Example: Readers leave comments under a blog post sharing their thoughts or questions
+Product Review and Rating System: create an example feature for users to leave reviews and rate products on an e-commerce site. Example: Customers rate and review a purchased product, sharing their experience
+User-Generated Restaurant Reviews: create an example platform for users to add reviews for restaurants, including a rating system for food quality, service, and ambiance. Example: Diners submit reviews and ratings for restaurants they've visited
+Movie Rating and Review Platform: create an example system where users can rate and review movies, with options to sort reviews by usefulness or date. Example: Moviegoers share their ratings and reviews for the latest films
+Service Feedback System: create an example feature for users to leave feedback and ratings for services received, such as home services or professional consultations. Example: Clients rate and review the quality of services provided by a cleaning company
+Book Review and Recommendation site: create an example book review section where users can rate books and write reviews, influencing recommendations. Example: Readers submit reviews for books they've read, affecting book recommendations for others
+Hotel Guest Review and Rating System: create an example system for guests to review and rate their hotel stays. Example: Hotel guests share their experiences and rate their stay on a scale of 1 to 5 stars
+Educational Course Rating System: create an example platform where students can rate and review educational courses and instructors. Example: Students provide feedback and ratings for online courses they've completed
+Event Feedback Portal: create an example system for event attendees to leave feedback and ratings for events like conferences or concerts. Example: Attendees submit feedback and rate their experience at a music festival
+App User Review and Rating Feature: create an example feature in a mobile app for users to leave reviews and rate the app in the app store. Example: Users rate and review a fitness app based on their satisfaction with its features
+Employee Performance Review System: create an example system for internal use where employees can receive and provide feedback and ratings. Example: Managers and team members submit performance reviews for colleagues
+Customer Service Rating System: create an example feature for rating customer service interactions, including both online and in-store experiences. Example: Customers rate their satisfaction with the customer service received during a support call
+Travel Destination Reviews: create an example platform for travelers to write reviews and rate travel destinations, hotels, and attractions. Example: Travelers share their experiences and tips for destinations they've visited
+Healthcare Provider Ratings: create an example system for patients to rate and review healthcare providers, such as doctors or clinics. Example: Patients provide ratings and feedback for their experiences with healthcare providers
+Online Course Feedback System: create an example feature for users to leave feedback and rate online learning courses or tutorials. Example: Learners rate the effectiveness of an online coding course and leave feedback for improvement
+Music Album Review and Rating: create an example system where users can review and rate music albums or songs on a streaming platform. Example: Music fans rate and review albums they've listened to, influencing recommendations for others
+User Comment System on News Articles: create an example comment section for users to discuss and share opinions on news articles. Example: Readers engage in discussions and share their perspectives on current news stories
+Gadget Review and Rating Portal: create an example website feature for users to review and rate electronics and gadgets. Example: Tech enthusiasts submit reviews and ratings for the latest smartphones
+Fitness Class Rating System: create an example system for gym members to rate and review fitness classes and instructors. Example: Gym members provide feedback on fitness classes they've attended, helping others choose classes
+Real Estate Property Reviews: create an example platform where users can leave reviews and ratings for rental properties or real estate agents. Example: Tenants and homebuyers share their experiences and rate properties or agents they've dealt with
+Secure Data Hashing for Integrity: "create secure hashing to ensure data integrity. Example: System hashes user passwords before storage for security
+Encrypting Cookie Data: "create encryption for sensitive data stored in cookies. Example: Web application encrypts session cookies for enhanced security
+Configuring SSL Certificates: "Properly configure SSL certificates for secure connections. Example: Admin sets up an SSL certificate for the company website to ensure secure browsing
+Secure Password Reset Mechanism: create an example secure, time-limited password reset process. Example: User receives a time-sensitive link via email to securely reset their password
+Basic Data Encryption for User Communications: "create encryption for user communications within your application. Example: Messages between users are encrypted to protect privacy
+Comment Section for Blog Posts: create an example comment system for blog posts. Example: Readers can leave comments under articles to engage with content
+Product Review and Rating System: create an example system for users to review and rate products. Example: Customers leave ratings and reviews for products they've purchased on an e-commerce site
+User-Generated Restaurant Reviews: create an example platform for restaurant reviews and ratings. Example: Diners submit reviews and ratings for restaurants they've visited
+Movie Rating and Review Platform: create an example system for movie ratings and reviews. Example: Users rate and review movies they've watched, helping others decide what to watch
+Service Feedback System: create an example feedback system for services. Example: Users rate the service of a home cleaning company, providing valuable feedback for others
+Book Review and Recommendation Engine: create an example book review and recommendation system. Example: Readers share reviews of books they've read, influencing recommendations for the community
+Hotel Guest Review and Rating System: create an example review and rating system for hotel stays. Example: Guests rate their hotel experience, providing insights for future guests
+Educational Course Rating System: create an example rating system for educational courses. Example: Students rate online courses they've completed, aiding prospective students in course selection
+Event Feedback Portal: create an example feedback portal for events. Example: Attendees leave feedback on a conference, helping organizers improve future events
+App User Review and Rating Feature: create an examplen app review and rating feature. Example: Users rate and review a fitness app, contributing to its overall user rating in the app store
+Employee Performance Review System: create an example performance review system for employees. Example: Employees receive and provide feedback during performance review cycles
+Customer Service Rating System: create an example rating system for customer service experiences. Example: Customers rate their support experience, providing feedback to the service team
+Travel Destination Reviews: create an example platform for travel destination reviews. Example: Travelers share their experiences and tips for destinations, aiding others in travel planning
+Healthcare Provider Ratings: create an example rating system for healthcare providers. Example: Patients rate their doctors and healthcare experiences, assisting others in choosing providers
+Online Course Feedback System: create an example feedback system for online courses. Example: Learners leave feedback on courses they've taken, helping improve course content and delivery
+Music Album Review and Rating: create an example review and rating system for music albums. Example: Music enthusiasts rate and review albums, influencing other listeners' choices
+User Comment System on News Articles: create an example comment section for news articles. Example: Readers discuss and share opinions on news stories through comments
+Gadget Review and Rating Portal: create an example portal for gadget reviews and ratings. Example: Tech enthusiasts share their experiences with the latest gadgets, guiding potential buyers
+Fitness Class Rating System: create an example rating system for fitness classes. Example: Gym members rate fitness classes they've attended, providing feedback for other members
+Real Estate Property Reviews: create an example platform for real estate reviews. Example: Homebuyers and renters share their experiences with properties and agents, aiding others in making informed decisions
+Secure File Encryption for Uploads: "Encrypt user-uploaded files for security. Example: User uploads sensitive documents, which are encrypted for protection
+OAuth for Third-Party Authentication: "Set up OAuth for user authentication via third-party services. Example: User logs in using their social media accounts, streamlining the authentication process
+Encrypting Session Data: "Securely encrypt session data stored on the server. Example: Web application encrypts user session data to protect against unauthorized access
+CAPTCHA createation: "Integrate CAPTCHA to prevent automated submissions. Example: Registration forms include CAPTCHA to distinguish human users from bots
+Encrypting Cookie Data: "Encrypt sensitive information stored in cookies. Example: Website encrypts user cookies containing login information for added security
+Configuring SSL Certificates: "Ensure websites have properly configured SSL certificates. Example: E-commerce site sets up SSL to secure user data during transactions
+Secure Password Reset Mechanism: create an example secure process for password resets. Example: Users receive a secure link via email to reset their passwords, with the link expiring after a short period

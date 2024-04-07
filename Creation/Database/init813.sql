@@ -1,0 +1,4 @@
+CREATE TABLE products (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    product_image VARCHAR(255) NOT NULL
+);

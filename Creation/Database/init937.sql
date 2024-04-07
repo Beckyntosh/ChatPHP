@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS MortgageCalculator (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+loan_amount DOUBLE NOT NULL,
+interest_rate DOUBLE NOT NULL,
+loan_term INT(11) NOT NULL,
+monthly_payment DOUBLE NOT NULL,
+calculation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+INSERT INTO MortgageCalculator (loan_amount, interest_rate, loan_term, monthly_payment) VALUES
+(100000, 5, 30, 536.82),
+(200000, 4.5, 15, 1516.4),
+(150000, 3.75, 20, 868.27),
+(250000, 4.2, 25, 1373.64),
+(180000, 4.75, 20, 1101.03),
+(300000, 3.5, 30, 1347.13),
+(220000, 4.1, 15, 1635.94),
+(270000, 3.9, 25, 1367.68),
+(320000, 4.25, 30, 1569.97),
+(280000, 4.8, 20, 1776.08);

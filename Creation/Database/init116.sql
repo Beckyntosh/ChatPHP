@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS meals (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(30) NOT NULL,
+    ingredients TEXT NOT NULL,
+    recipe TEXT NOT NULL,
+    dietary_preferences VARCHAR(50),
+    reg_date TIMESTAMP
+);
+
+INSERT INTO meals (name, ingredients, recipe, dietary_preferences) VALUES 
+('Spaghetti Bolognese', 'Spaghetti noodles, Ground beef, Tomato sauce, Onion, Garlic, Italian seasoning, Salt, Pepper', '1. Boil the spaghetti noodles until al dente. 2. Brown the ground beef in a skillet with diced onion and minced garlic. 3. Add tomato sauce and season with Italian seasoning, salt, and pepper. 4. Serve the meat sauce over the cooked spaghetti noodles.', 'Gluten-Free'),
+('Chicken Stir Fry', 'Chicken breast, Mixed vegetables (peppers, broccoli, carrots), Soy sauce, Garlic, Ginger, Brown sugar, Cornstarch, Rice', '1. Cut the chicken into bite-sized pieces and cook in a skillet. 2. Add mixed vegetables and cook until slightly tender. 3. Mix soy sauce, garlic, ginger, brown sugar, and cornstarch in a bowl. 4. Pour the sauce over the chicken and vegetables, stir until sauce thickens. 5. Serve over cooked rice.', 'Low-Carb'),
+('Vegetable Curry', 'Mixed vegetables (potatoes, carrots, peas, bell peppers), Curry paste, Coconut milk, Onion, Garlic, Ginger, Cilantro, Rice', '1. Sauté onion, garlic, and ginger in a pot. 2. Add curry paste and cook for a few minutes. 3. Add mixed vegetables and coconut milk. 4. Simmer until vegetables are tender. 5. Serve over cooked rice, garnished with cilantro.', 'Vegetarian'),
+('Grilled Salmon', 'Salmon fillets, Lemon, Garlic, Dill, Olive oil, Salt, Pepper', '1. Marinate salmon fillets with lemon juice, minced garlic, dill, olive oil, salt, and pepper. 2. Grill the salmon until cooked through. 3. Serve with a side of roasted vegetables or salad.', 'Pescatarian'),
+('Quinoa Salad', 'Quinoa, Cucumber, Cherry tomatoes, Red onion, Feta cheese, Olive oil, Lemon juice, Dill, Salt, Pepper', '1. Cook quinoa according to package instructions and let it cool. 2. Chop cucumber, tomatoes, and onion, and crumble feta cheese. 3. Mix all ingredients with olive oil, lemon juice, dill, salt, and pepper. 4. Serve chilled as a refreshing salad.', 'Gluten-Free, Vegetarian'),
+('Beef Tacos', 'Ground beef, Corn tortillas, Tomato, Lettuce, Cheese, Sour cream, Taco seasoning', '1. Brown the ground beef in a skillet and season with taco seasoning. 2. Heat up corn tortillas. 3. Assemble tacos with beef, chopped tomato, shredded lettuce, cheese, and sour cream.', 'Gluten-Free'),
+('Mushroom Risotto', 'Arborio rice, Mushrooms, Onion, Garlic, White wine, Vegetable broth, Parmesan cheese, Butter, Salt, Pepper', '1. Sauté diced onion, garlic, and sliced mushrooms in a pot. 2. Add arborio rice and cook until translucent. 3. Deglaze with white wine. 4. Gradually add vegetable broth while stirring until the rice is creamy. 5. Stir in grated Parmesan cheese and butter. 6. Season with salt and pepper.', 'Vegetarian'),
+('Lemon Herb Chicken', 'Chicken breast, Lemon, Garlic, Rosemary, Thyme, Olive oil, Salt, Pepper', '1. Marinate chicken breast with a mixture of lemon juice, minced garlic, chopped rosemary, thyme, olive oil, salt, and pepper. 2. Grill or bake the chicken until cooked. 3. Serve with roasted vegetables or salad.', 'Low-Carb'),
+('Eggplant Parmesan', 'Eggplant, Marinara sauce, Mozzarella cheese, Parmesan cheese, Bread crumbs, Egg, Basil', '1. Bread eggplant slices in a mixture of bread crumbs and grated Parmesan. 2. Bake until golden and crispy. 3. Layer eggplant slices with marinara sauce, mozzarella cheese, and fresh basil. 4. Bake until cheese is melted and bubbly.', 'Vegetarian'),
+('Peanut Noodles', 'Spaghetti noodles, Peanut butter, Soy sauce, Rice vinegar, Sesame oil, Garlic, Ginger, Green onions, Peanuts, Sriracha', '1. Cook spaghetti noodles until al dente. 2. Mix peanut butter, soy sauce, rice vinegar, sesame oil, minced garlic, grated ginger, and sriracha in a bowl. 3. Toss noodles with the peanut sauce. 4. Garnish with chopped green onions and crushed peanuts.', 'Vegetarian');

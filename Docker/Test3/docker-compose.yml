@@ -1,0 +1,24 @@
+# docker-compose.yml
+version: '3'
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - "803:80"
+    depends_on:
+      - db
+    volumes:
+      - ./www:/var/www/html
+      - ./www/uploads:/var/www/html/uploads
+      - ./database:/var/www/html/database
+
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: my_database
+    ports:
+      - "3308:3306"
+    volumes:
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql

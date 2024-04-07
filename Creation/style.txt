@@ -1,0 +1,100 @@
+Ada Lovelace
+Alan Turing
+Claude Shannon
+Cryptic
+Cyberpunk
+Dennis Ritchie
+Donald Knuth
+Ken Thompson
+Linus Torvalds
+Machiavellien
+Romeo and Juliet
+Sherlock Holmes
+accurate
+active
+all-encompassing
+artistic
+asynchronous
+authentic
+automated
+beginner-friendly
+bold
+brave
+calm
+careful
+cheerful
+complete
+complex
+configurable
+creative
+curious
+decentralized
+detailed
+distributed
+dynamic
+energetic
+enthusiastic
+ephemeral
+excited
+expert-level
+funny
+future-proof
+futuristic
+genious
+grateful
+happy
+high level of detail
+imaginative
+immersive
+innovative
+inquisitive
+intelligent
+interoperable
+introspective
+invasive
+irregular
+light-weight
+lively
+mathematical
+medieval
+mind-bending
+minimalist
+modular
+multi-threaded
+multiplayer
+multivariable
+optimized
+paranoid
+peaceful
+portable
+post-apocalyptic
+protected
+puzzling
+random
+real-life
+realistic
+recursive
+relaxed
+resource intensive
+retro
+rigorous
+romantic
+safe
+satisfied
+scalable
+scientific
+secure
+shape shifting
+shocked
+single-threaded
+sophisticated
+standalone
+statistical
+surprised
+surrealist
+synchronous
+systematic
+thoughtful
+ultraprecise
+unmistakable
+visionary

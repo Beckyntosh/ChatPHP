@@ -1,0 +1,10 @@
+INSERT INTO finance_goals (goal, amount) VALUES ('Save $5,000 for travel', 5000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Buy a new laptop', 1500.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Renovate the kitchen', 10000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Start an emergency fund', 3000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Invest in stocks', 2000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Save for a down payment', 15000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Pay off credit card debt', 5000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Buy a new car', 20000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Take a vacation', 3000.00);
+INSERT INTO finance_goals (goal, amount) VALUES ('Save for retirement', 50000.00);
