@@ -5,8 +5,8 @@ This approach not only underscores the potential security flaws within AI-genera
 
 # Cite
 
-
-# Launching the application
+# Instructions
+## Launching the application
 
 Download the Docker folder and the Creation/Sites, Creation/database folders
 
