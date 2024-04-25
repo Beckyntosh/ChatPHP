@@ -4,6 +4,7 @@ Our investigation zeroes in on identifying and analyzing File Upload, SQL Inject
 We assembled a broad array of programming challenges. These challenges were designed to reflect the complexity and variety of scenarios a developer might typically present to an AI model for task resolution and cna been see in the functions.xt. These challenges include entries such as Create Language Learning Content, User Profile Editing with Audit Trail and so on. To further enrich the variety of responses—as each task is presented to the LLM several times—a website product and a website style category is included in the dynamic part of the prompt. The resulting PHP code is complemented with a database, which is de- ployed in a Docker container as a simple website
 
 # Cite
+https://arxiv.org/abs/2404.14459
 
 # Instructions
 ## Launching the application
